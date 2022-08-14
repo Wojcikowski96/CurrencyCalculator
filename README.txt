@@ -13,4 +13,4 @@ Aby uruchomić program należy przejść katalogami out\artifacts\CurrencyCalcul
 Następnie dwuklikiem wybrać plik z rozszerzeniem .jar
 
 W przypadku niepoprawnej konfiguracji javy na urządzeniu powyższy sposób może się nie powieść
-Alternatywnie należy uruchomić skrypt RunApp.vbs znajdujący się w katalogu głównym projektu.
+Alternatywnie można spróbować uruchomić skrypt RunApp.vbs znajdujący się w katalogu głównym projektu.
