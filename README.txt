@@ -7,3 +7,10 @@ Obsłużono proste przypadki niepoprawności wprowadzanych danych za pomocą kom
 Stworzono testy jednostkowe badające czy funkcja przeliczająca walutę działa poprawnie.
 W tym celu wygenerowana została macierz poprawnych wyników dla każdego typu waluty dla 4 różnych kwot.
 Testy sprawdzają także zachowanie funkcji obliczającej dla różnych typów argumentów.
+
+##########################URUCHOMIENIE PROGRAMU SPOZA IDE###################################
+Aby uruchomić program należy przejść katalogami out\artifacts\CurrencyCalculator
+Następnie dwuklikiem wybrać plik z rozszerzeniem .jar
+
+W przypadku niepoprawnej konfiguracji javy na urządzeniu powyższy sposób może się nie powieść
+Alternatywnie należy uruchomić skrypt RunApp.vbs znajdujący się w katalogu głównym projektu.
