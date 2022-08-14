@@ -12,8 +12,8 @@ import org.xml.sax.SAXException;
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;
 
-public class Main extends Application {
-    public static void main(String[] args) {
+public class Launcher extends Application {
+    public static void main(String[] args){
         launch(args);
     }
 
