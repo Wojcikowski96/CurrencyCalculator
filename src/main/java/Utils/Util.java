@@ -1,6 +1,6 @@
 package Utils;
 
-import Main.Calculator;
+import Calculator.Calculator;
 
 import java.util.ArrayList;
 import java.util.Arrays;

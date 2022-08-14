@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/CurrencyCalculator</output-path>
     <properties id="javafx-properties">
       <options>
-        <option name="appClass" value="Main.Main" />
+        <option name="appClass" value="JavaFXLauncher.Launcher" />
         <option name="description" value="" />
         <option name="htmlPlaceholderId" value="" />
         <option name="title" value="" />

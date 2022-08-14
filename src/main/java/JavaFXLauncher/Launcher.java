@@ -1,5 +1,6 @@
-package Main;
+package JavaFXLauncher;
 
+import Calculator.Calculator;
 import Utils.Util;
 import javafx.application.Application;
 import javafx.geometry.Pos;
